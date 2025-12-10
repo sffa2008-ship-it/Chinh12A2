@@ -103,7 +103,7 @@ nav {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background-color: rgba(0, 0, 0, 0.35); /* Lớp phủ tối để chữ dễ đọc */
+    background-color: rgba(0, 0, 0, 0.25); /* Lớp phủ tối để chữ dễ đọc */
     z-index: 1;
 }
 
